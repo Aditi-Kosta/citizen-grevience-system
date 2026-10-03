@@ -1,0 +1,6 @@
+# Optional ML stack for the full local pipeline.
+torch>=2.2,<3
+transformers>=4.45,<5
+datasets>=2.20,<4
+sentence-transformers>=3,<6
+hdbscan>=0.8.38,<1

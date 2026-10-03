@@ -1,0 +1,7 @@
+seed: 42
+train_split: 0.70
+validation_split: 0.15
+test_split: 0.15
+classification_confidence_threshold: 0.75
+duplicate_similarity_threshold: 0.90
+hdbscan_min_cluster_size: 10
